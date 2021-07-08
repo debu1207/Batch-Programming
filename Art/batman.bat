@@ -1,6 +1,6 @@
 @echo off
 cls
-type ascii-art.txt
+type batman_ascii-art.txt
 :loop
 REM type ascii-art.txt
 color 0
